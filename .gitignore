@@ -2,4 +2,4 @@
 .venv
 data.xlsx
 create_excel.py
-test_pllama.py
+test_ollama.py
