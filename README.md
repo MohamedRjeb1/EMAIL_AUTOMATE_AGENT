@@ -1,4 +1,4 @@
-# Agent Email avec Ollama Mistral Local
+# Agent Email avec Ollama Mistral Finetuned
 
 Ce projet utilise un modèle Ollama Mistral local pour traiter automatiquement les emails entrants et générer des réponses appropriées.
 
